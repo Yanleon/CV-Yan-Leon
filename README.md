@@ -1,6 +1,6 @@
 # 📄 CV - Yan Leon
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)]([https://linkedin.com/in/yan-leon](https://www.linkedin.com/in/yan-leon-015b78104))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/yan-leon-015b78104)
 [![CV PDF](https://img.shields.io/badge/CV-Descargar-green)](CV.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-Portafolio-black)](https://github.com/tuusuario)
 
